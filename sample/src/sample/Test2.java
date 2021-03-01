@@ -13,4 +13,9 @@ public class Test2 {
 	public void d() {
 		System.out.println("Test2 d");	
 	}
+	
+	@Test
+	public void d1() {
+		System.out.println("Test2 d1");	
+	}
 }
