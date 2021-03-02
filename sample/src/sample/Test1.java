@@ -18,8 +18,6 @@ public class Test1 {
 	public void b1() {
 		System.out.println("Test1 b1");	
 	}
-		// TODO Auto-generated method stub
-
-
+		// TODO Auto-generated method stub021
 
 }

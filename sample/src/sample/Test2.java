@@ -11,7 +11,7 @@ public class Test2 {
 	
 	@Test
 	public void d() {
-		System.out.println("Test2 d");	
+		System.out.println("Test2 d");
 	}
 	
 	@Test
